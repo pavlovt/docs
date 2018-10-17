@@ -62,3 +62,5 @@ Bonus: Add an additional argument to the function that takes the conversion rate
 - Write a JavaScript function which accepts an argument and returns the type
 - Write a JavaScript function which accepts another function as an argument and executes it
 - Write a JavaScript function to get the function name
+
+- solve [recursion exercises](https://www.w3resource.com/javascript-exercises/javascript-recursion-functions-exercises.php)

@@ -133,6 +133,14 @@ z
 // {y: 2}
 ```
 
+### Loops
+```js
+for (key in hash) {
+    if (hash.hasOwnProperty(key))
+    console.log(hash[key]);
+}
+```
+
 ## Arrays
 ```JavaScript
 [1, 2, 3]
@@ -163,6 +171,31 @@ z.splice(0, 1)
 // [1]
 z
 // [2, 3]
+```
+
+### useful methods
+  array.push(value) – insert element in end of array
+  array.pop() – extract element from end of array
+
+  array.unshift(value) – insert element before first
+  array.shift() – extract element first element
+
+  array.join() – concatenate all elements of array in string
+  array.split() – divide string on elements of array
+
+  array.sort() – built-in method of array sorting
+
+### Loops
+```js
+var array = [4, 8, 16, 32], i;
+for (i = 0; i < array.length; i++) {
+     console.log(array[i]);
+}
+
+var array = [4, 8, 16, 32];
+array.forEach(function (element, index) {
+     console.log(element);
+});
 ```
 
 be careful not to create an array and use it as an object or the oposite - the result is very strange

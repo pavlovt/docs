@@ -15,3 +15,6 @@ Declare variables which should hold data of following types. You may assign some
 - delete the property Name from the above object
 - add property "prop 1" to the object
 - if you have var q = 'tst' add a property to the object using this variable
+
+- solve [string exercises](https://www.w3resource.com/javascript-exercises/javascript-string-exercises.php)
+- solve [array exercises](https://www.w3resource.com/javascript-exercises/javascript-array-exercises.php)
