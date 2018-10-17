@@ -97,3 +97,4 @@ the result will be:
 ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
 - [Understanding JavaScript: Prototype and Inheritance](https://hackernoon.com/understanding-javascript-prototype-and-inheritance-d55a9a23bde2)
 - JavaScript Bible
+- [exercise](https://www.w3resource.com/javascript-exercises/javascript-object-exercises.php)
