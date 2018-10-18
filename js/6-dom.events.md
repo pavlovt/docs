@@ -103,3 +103,4 @@ let clock = setInterval(() => {
 - check the execises and documentation:
   -  [Events](http://eloquentjavascript.net/15_event.html)
   -  [DOM](http://eloquentjavascript.net/14_dom.html)
+- [webpack starter](https://github.com/wbkd/webpack-starter)
