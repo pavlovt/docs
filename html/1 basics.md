@@ -38,6 +38,8 @@
   <head>
     <title>Моята страница</title>
     <meta charset="utf-8">
+    <link href="styles.css" rel="stylesheet">
+    <script src="scripts.js"></script>
   </head>
   <body>
     <h1>Моята страница</h1>
@@ -52,4 +54,7 @@ HTML е декларативен език - това означава, че то
 
 Мета таговете (```<meta ...>```) винаги се намират в head елемента и съдържат допълнителна информация за страницата, която се използва от броузъра или търсачките, но не се показва на нея. Най-важният мета таг е този, показващ кодирането на символите (```<meta charset="utf-8">```). Когато пишем на хартия написаното еднозначно съотвества на това, което искаме да предадем на четящия написаното от нас. При писането на компютър това не е така, защото се запазва не изображението на буквата, а нейния номер и във всяка различна кодировка номерата на буквите са различни.
 
-![dfsf](./img/1-encoding.jpg){.img}
+![encoding](./img/1-encoding.jpg)
+
+[HTML Layout](https://www.w3schools.com/html/html_layout.asp)
+[HTML Layout Details](http://www-db.deis.unibo.it/courses/TW/DOCS/w3schools/html/html_layout.asp.html)
