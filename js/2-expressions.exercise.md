@@ -1,3 +1,15 @@
+## Can someone go to the cinema
+Check if the person can go to the cinema.
+
+Here are the rules: The visitor can go to the cinema if is 12 years or older or if he is accompanied by his parrents.
+
+Please finish the program:
+```js
+var age = 11;
+var accompanied = true;
+...
+```
+
 ## Looping a triangle
 Write a loop that makes seven calls to console.log to output the following triangle:
 ```
