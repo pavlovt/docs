@@ -56,5 +56,8 @@ HTML е декларативен език - това означава, че то
 
 ![encoding](./img/1-encoding.jpg)
 
-[HTML Layout](https://www.w3schools.com/html/html_layout.asp)
-[HTML Layout Details](http://www-db.deis.unibo.it/courses/TW/DOCS/w3schools/html/html_layout.asp.html)
+### Числови системи
+
+![encoding](./img/1-number-systems.jpg)
+
+Коя от числовите системи според вас е най-естествена за компютъра?
