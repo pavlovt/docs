@@ -89,3 +89,6 @@ class User {
         return this.#email;
     }
 }
+
+## Научи повече
+- [Leveling up to ES6](https://www.udemy.com/leveling-up-to-es6/?ranMID=39197&ranEAID=bt30QTxEyjA&ranSiteID=bt30QTxEyjA-B6IyBFlf0sw_cqGr2SYJ0g&LSNPUBID=bt30QTxEyjA)

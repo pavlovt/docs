@@ -61,3 +61,13 @@ HTML е декларативен език - това означава, че то
 ![encoding](./img/1-number-systems.jpg)
 
 Коя от числовите системи според вас е най-естествена за компютъра?
+
+## Научи повече
+- [All IT Books](http://www.allitebooks.com/)
+- [Free Code Camp](https://learn.freecodecamp.org/)
+- [Pre-Programming: Everything you need to know before you code](https://www.udemy.com/pre-programming-everything-you-need-to-know-before-you-code/?couponCode=freeforstudio&ranMID=39197&ranEAID=bt30QTxEyjA&ranSiteID=bt30QTxEyjA-qzjwegqz78Aio7w6r3daMA&LSNPUBID=bt30QTxEyjA)
+- [Top 100 Free Udemy Courses](https://www.guru99.com/free-udemy-course.html)
+- [Introduction to HTML](https://www.codecademy.com/learn/learn-html)
+- [HTML Introduction Course](https://www.udemy.com/html-introduction-course-learn-html-in-2-hours/?ranMID=39197&ranEAID=bt30QTxEyjA&ranSiteID=bt30QTxEyjA-iv0emJr9liSAZdAj.Jth1Q&LSNPUBID=bt30QTxEyjA)
+- [HTML5: Foundation classes on HTML 5](https://www.udemy.com/lightroom5/)
+- [Make a Website](https://www.codecademy.com/learn/make-a-website)

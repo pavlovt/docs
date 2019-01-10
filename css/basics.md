@@ -44,3 +44,9 @@
 - 
 
 [Learn CSS layout](http://learnlayout.com/toc.html)
+
+## Научи повече
+- [Learn CSS](https://www.codecademy.com/learn/learn-css)
+- [CSS Web Development Crash Course](https://www.udemy.com/css-course/?couponCode=FREECOUPON)
+- Deep CSS
+- [CSS courses](https://rutracker.org/forum/tracker.php?nm=css)
