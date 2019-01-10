@@ -70,4 +70,7 @@ HTML е декларативен език - това означава, че то
 - [Introduction to HTML](https://www.codecademy.com/learn/learn-html)
 - [HTML Introduction Course](https://www.udemy.com/html-introduction-course-learn-html-in-2-hours/?ranMID=39197&ranEAID=bt30QTxEyjA&ranSiteID=bt30QTxEyjA-iv0emJr9liSAZdAj.Jth1Q&LSNPUBID=bt30QTxEyjA)
 - [HTML5: Foundation classes on HTML 5](https://www.udemy.com/lightroom5/)
+
+- [HTML & CSS simple projects](https://codeclubprojects.org/en-GB/webdev/)
 - [Make a Website](https://www.codecademy.com/learn/make-a-website)
+- [Home Projects](https://learn.freecodecamp.org/coding-interview-prep/take-home-projects/)
