@@ -1,7 +1,7 @@
 # Expressions and Statements
 
 - Expression: a fragment of code that produces a value
-- Statement: an expression finishing at the end of the line or with semicolumn 
+- Statement: an expression finishing at the end of the line or with semicolon 
 
 
 ```javascript

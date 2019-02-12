@@ -199,3 +199,7 @@ array.forEach(function (element, index) {
 ```
 
 be careful not to create an array and use it as an object or the oposite - the result is very strange
+
+## Learn more
+- JavaScript for Kids
+- [Bits and Bytes](https://web.stanford.edu/class/cs101/bits-bytes.html)
