@@ -85,3 +85,5 @@ fromString(str) {
  ...
 }
 ```
+## Learn more
+- [Exercises](https://github.com/pavlovt/docs/blob/master/js/2-expressions.exercise.md)
