@@ -209,3 +209,4 @@ be careful not to create an array and use it as an object or the oposite - the r
 - [Logical operators](https://javascript.info/logical-operators)
 - [Loops](https://javascript.info/while-for)
 - [Exploring ES++](http://exploringjs.com/index.html)
+- [Code quality](https://javascript.info/code-quality)
