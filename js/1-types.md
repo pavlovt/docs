@@ -196,6 +196,11 @@ var array = [4, 8, 16, 32];
 array.forEach(function (element, index) {
      console.log(element);
 });
+
+var array = [4, 8, 16, 32];
+for (const [index, element] of array.entries()) {
+     console.log(element);
+});
 ```
 
 be careful not to create an array and use it as an object or the oposite - the result is very strange
