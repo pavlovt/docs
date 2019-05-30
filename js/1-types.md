@@ -220,3 +220,4 @@ be careful not to create an array and use it as an object or the oposite - the r
 - [Loops](https://javascript.info/while-for)
 - [Exploring ES++](http://exploringjs.com/index.html)
 - [Code quality](https://javascript.info/code-quality)
+- [Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
