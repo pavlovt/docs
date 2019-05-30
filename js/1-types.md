@@ -198,6 +198,11 @@ array.forEach(function (element, index) {
 });
 
 var array = [4, 8, 16, 32];
+for (const element of array) {
+     console.log(element);
+});
+
+var array = [4, 8, 16, 32];
 for (const [index, element] of array.entries()) {
      console.log(element);
 });
