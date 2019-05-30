@@ -32,7 +32,7 @@ console.log(x + z);
 // → 40
 ```
 
-## Conditional exedcution
+## Conditional execution
 ```js
 let theNumber = Number(prompt("Pick a number"));
 if (!Number.isNaN(theNumber) && theNumber > 100) {
