@@ -203,7 +203,9 @@ be careful not to create an array and use it as an object or the oposite - the r
 ## Learn more
 - [Exercises](https://github.com/pavlovt/docs/blob/master/js/1-types.exercise.md)
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
+- [JavaScript for impatient programmers](http://exploringjs.com/impatient-js/toc.html)
 - JavaScript for Kids
 - [Bits and Bytes](https://web.stanford.edu/class/cs101/bits-bytes.html)
 - [Logical operators](https://javascript.info/logical-operators)
 - [Loops](https://javascript.info/while-for)
+- [Exploring ES++](http://exploringjs.com/index.html)
