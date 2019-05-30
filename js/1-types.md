@@ -201,6 +201,8 @@ array.forEach(function (element, index) {
 be careful not to create an array and use it as an object or the oposite - the result is very strange
 
 ## Learn more
+- [Exercises](https://github.com/pavlovt/docs/blob/master/js/1-types.exercise.md)
 - JavaScript for Kids
 - [Bits and Bytes](https://web.stanford.edu/class/cs101/bits-bytes.html)
 - [Logical operators](https://javascript.info/logical-operators)
+- [Loops](https://javascript.info/while-for)
