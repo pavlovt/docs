@@ -158,6 +158,7 @@ Widget.prototype.onClick = function(e) {
 A higher-order function is a function that can take another function as an argument, or that returns a function as a result.
 
 ## Learn more
+- [Exercises](https://github.com/pavlovt/docs/blob/master/js/3-functions.exercise.md)
 - [Functions](http://eloquentjavascript.net/03_functions.html)
 - [Defining functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
 - [Execution context, Scope chain and JavaScript internals](https://hackernoon.com/execution-context-in-javascript-319dd72e8e2c)
