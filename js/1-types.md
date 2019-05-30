@@ -203,3 +203,4 @@ be careful not to create an array and use it as an object or the oposite - the r
 ## Learn more
 - JavaScript for Kids
 - [Bits and Bytes](https://web.stanford.edu/class/cs101/bits-bytes.html)
+- [Logical operators](https://javascript.info/logical-operators)
